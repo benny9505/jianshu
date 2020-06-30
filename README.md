@@ -6,14 +6,10 @@
 
 样式：styled-components
 
-### 首页
 
-![image-20200630191641921](/Users/benny/Library/Application Support/typora-user-images/image-20200630191641921.png)
 
-### 文章详情页
+## 启动
 
-![image-20200630191955470](/Users/benny/Library/Application Support/typora-user-images/image-20200630191955470.png)
+npm i 
 
-### 登陆页（路由守卫）
-
-![image-20200630192022710](/Users/benny/Library/Application Support/typora-user-images/image-20200630192022710.png)
+yarn start
